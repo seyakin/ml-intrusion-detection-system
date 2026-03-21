@@ -1,12 +1,3 @@
-"""
-data/download_dataset.py
-========================
-Downloads the UNSW-NB15 dataset from the official UNSW source, or generates
-a statistically equivalent synthetic version if the download fails.
-
-Official dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
-"""
-
 import os
 import sys
 import urllib.request
